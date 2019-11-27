@@ -10,7 +10,7 @@ Python版计算24点并实现GUI交互，GUI目前用的是内置的tkinter库�
 - [cal24pycmd.py](./cal24pycmd.py)
 - [cal24pygui.py](./cal24pygui.py)
 
- + time
+ to add time
  
 ### JS
 to do
